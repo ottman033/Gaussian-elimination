@@ -1,0 +1,21 @@
+Gaussian Elimination
+
+This project covers the Gaussian elimination method for solving systems of linear equations.
+
+It includes three methods:
+
+Gaussian elimination without pivoting.
+
+Gaussian elimination with partial pivoting.
+
+Gaussian elimination with total pivoting.
+
+The project explains the algorithms and compares the different methods through mathematical examples and practical implementations.
+
+Technologies
+
+Python
+
+Author
+
+Your Name
